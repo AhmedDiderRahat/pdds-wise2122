@@ -1,0 +1,5 @@
+pandas==0.25
+scikit-learn[alldeps]==0.22
+jupyter
+seaborn==0.8.1
+tensorflow

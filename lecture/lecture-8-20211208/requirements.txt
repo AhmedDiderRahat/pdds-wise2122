@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+html5lib
+bs4
+Scrapy
+lxml
